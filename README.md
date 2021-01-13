@@ -11,5 +11,8 @@ https://xradiotech-developer-guide.readthedocs.io/zh/latest/zh_CN/get-started/#_
 https://segmentfault.com/a/1190000021864206  
 MT8516  
 XR872  
+
+## iflyos, iFLYOS XR872 开发套件  
+https://www.iflyos.cn/development-kits  
 http://support.iflyos.cn/hc/community/topic/  
 http://bbs.xfyun.cn/forum.php?mod=forumdisplay&fid=84&page=1  
