@@ -1,6 +1,9 @@
 # wmt_xr872_study
 My XR872 study
 
+## msys dev env  
+search baidupan, msys_xr872_v1.rar  
+
 ## 机芯智能  
 http://docs.aimachip.com/zh_CN/latest/file/sdk.html  
 https://github.com/jixinintelligence/xradio-skylark-sdk  
