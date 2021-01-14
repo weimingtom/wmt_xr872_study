@@ -10,7 +10,7 @@ search baidupan, msys_xr872_v1.rar
 （2）烧录速度可能会较慢，有时候波特率会很低（烧录程序会自动更改），可以停止再重新烧录，  
 直到波特率稳定在较高的数值，以加快烧录速度。  
 （3）wlan_demo是一个串口控制台，需要完整的命令才会执行，例如输入echo是执行失败的，  
-需要输入echo hello才会执行成功，详细需要看机芯智能的文档（Wifi语音模组->开发板），  
+需要输入echo hello才会执行成功，详细需要看机芯智能的文档《快速入门V1.1.pdf》（Wifi语音模组->开发板），  
 如果看芯之联的文档可能会讲得不清楚：  
 http://docs.aimachip.com/zh_CN/latest/file/wifi_audio.html  
 https://xradiotech-developer-guide.readthedocs.io/zh/latest/zh_CN/get-started/  
