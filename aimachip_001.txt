@@ -1,0 +1,41 @@
+https://www.aimachip.com/product/showproduct.php?id=26
+
+XR-50A_EVB_AUDIO开发板
+XR-50A_EVB 是一款基于 XR-50AWiFi 模组开发的音频开发板，拥有强大的 MCU 处理器，内部集成了音视频子系统，外设资源丰富。开发板硬件部分包含麦克风、功能按键、LED 灯、电源、Wi-Fi 模块、音频接口、Camera 接口等。2、硬件资源 （1）USB 电源接口采用 USB Type C 接口，既是电源输入端，为整个系统提供电源，又是串口通信端口，主要用于固件烧录和调试信息输
+
+型号： XR-50A_EVB_AUDIO开发板 封装： 尺寸： 认证： SPI Flash： 支持接口： 串口速率： 频谱范围： IO口： 天线形式：
+ 
+详细信息
+规格参数
+包装
+XR-50A_EVB 是一款基于 XR-50AWiFi 模组开发的音频开发板，拥有强大的 MCU 处理 器，内部集成了音视频子系统，外设资源丰富。开发板硬件部分包含麦克风、功能按键、 LED 灯、电源、Wi-Fi 模块、音频接口、Camera 接口等。
+
+机芯智能
+
+2、硬件资源 
+
+（1）USB 电源接口 采用 USB Type C 接口，既是电源输入端，为整个系统提供电源，又是串口通信端 口，主要用于固件烧录和调试信息输出。支持 5V0.5A 电源输入。 
+
+（2）XR-50A 模组 ◼ XR-50AWiFi 模组是一款低功耗高性能的 WiFi 模组，采用 XR872 为核心处理器， 主频高达 384MHz，支持 IEEE 802.11b/g/n。外设资源丰富，支持 UART，TWI，SPI，DMIC，PWM，CIR（T / R），CSI，SDIO，ADC，I2S，PDM 等接口，内嵌 4M PSRAM， 支持 XIP 模式。内部集成音频子系统，包括 1 个带有左右声道语音输入的数字麦克风 控制器（DMIC），1 个 24 位音频数模（DAC）通道，1 个用于麦克风输入的 24 位音频 模数（ADC）通道，1 个用于线路输入的 24 位音频 1.2 硬件资源。集成了视频子系统， 支持 JPEG、YUV 等编码模式。适用范围广泛，主要面向语音编码、解码及识别、图 像采集、IOT 等一系列要求较高的应用场景。 
+
+（3）AC107 芯片 AC107 是具有 I2S / TDM 输出转换的高度集成的 2 通道 ADC。它专为高清语音捕 获和识别应用平台中的多麦克风阵列而设计。 
+
+（4）扬声器输出端口 支持 0.5~3W 扬声器。 
+
+（5）TF 卡座 支持一个 TF 卡座。 
+
+（6）MIC-IN 麦克风接口 支持单麦克风和双麦克风采集，支持硅电容麦或驻极体麦，AC107 默认连接为双 驻极体麦克风，XR872 默认连接为单硅电容麦。 
+
+（7）FPC 连接器 支持一个 FPC 连接器，用于接 CAMERA，硬件支持图像尺寸为 32*32 ~ 1920*1088 （8）按钮 9 个按钮各负责不同功能，其中 reset 为复位按钮，PB2、PB3 为下载固件按钮， wakeup 为唤醒按钮，其余按钮为音乐播放暂停、音量调节按钮，用户也可根据自己 需求自定义。 3、硬件准备 • 1 x PC. • 1 x XR-50B_EVB 开发板. • 1x USBType C 数据线. • 1x SD 卡• 1x 扬声器 
+
+4、软件准备 交叉编译器选择: gcc-arm-none-eabi-4_9-2015q2 
+
+Windows 版本https://launchpad.net/gcc-arm-embedded/4.9/4.9-2015-q2-update/+download/gcc-arm-none-eabi-4_ 9-2015q2-20150609-win32.zip 
+
+Linux 版本https://launchpad.net/gcc-arm-embedded/4.9/4.9-2015-q2-update/+download/gcc-arm-none-eabi-4_ 9-2015q2-20150609-linux.tar.bz2 
+
+SDK 下载地址：https://github.com/jixinintelligence/xradio-skylark-sdk 
+
+5、环境搭建见 http://docs.aimachip.com/zh_CN/latest/file/wifi.html#id1
+
+https://www.aimachip.com/upload/file/202009/1600936733822861.pdf
