@@ -1,5 +1,5 @@
 # wmt_xr872_study
-My XR872 study
+My XR872 and XR808 study  
 
 ## msys dev env  
 search baidupan, msys_xr872_v1.rar  
@@ -33,3 +33,8 @@ XR872
 https://www.iflyos.cn/development-kits  
 http://support.iflyos.cn/hc/community/topic/  
 http://bbs.xfyun.cn/forum.php?mod=forumdisplay&fid=84&page=1  
+
+## xr808, 安信可, 博安通新品, NodeMCU系列wifi开发板冷启动低功耗XW-01-Kit CH340  
+https://docs.ai-thinker.com/xr  
+https://github.com/Ai-Thinker-Open/Ai-Thinker-Open_XR808_SDK  
+https://aithinker.blog.csdn.net/article/details/108975656  
