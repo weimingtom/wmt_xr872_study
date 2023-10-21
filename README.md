@@ -38,3 +38,7 @@ http://bbs.xfyun.cn/forum.php?mod=forumdisplay&fid=84&page=1
 https://docs.ai-thinker.com/xr  
 https://github.com/Ai-Thinker-Open/Ai-Thinker-Open_XR808_SDK  
 https://aithinker.blog.csdn.net/article/details/108975656  
+
+## （TODO，待补充）xr806, xr808  
+* xr806 sdk (rtos version, hos version), TODO: 补充这两种SDK的区别和baidupan文件名位置  
+* xr806 rtos sdk和r128在API命名方面上有区别, 不能通用  
